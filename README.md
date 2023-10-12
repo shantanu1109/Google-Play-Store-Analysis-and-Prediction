@@ -52,45 +52,23 @@ This is a hypothetical dataset created by IBM data scientists. The dataset has (
 
 #### Dataset Attributes
 ```
-01] Age
-02] Attrition
-03] BusinessTravel
-04] DailyRate
-05] Department
-06] DistanceFromHome
-07] Education
-08] EducationField
-09] EmployeeCount
-10] EmployeeNumber
-11] EnvironmentSatisfaction
-12] Gender
-13] HourlyRate
-14] JobInvolvement
-15] JobLevel
-16] JobRole
-17] JobSatisfaction
-18] MaritalStatus
-19] MonthlyIncome
-20] MonthlyRate
-21] NumCompaniesWorked
-22] Over18
-23] OverTime
-24] PercentSalaryHike
-25] PerformanceRating
-26] RelationshipSatisfaction
-27] StandardHours
-28] StockOptionLevel
-29] TotalWorkingYears
-30] TrainingTimesLastYear
-31] WorkLifeBalance
-32] YearsAtCompany
-33] YearsInCurrentRole
-34] YearsSinceLastPromotion
-35] YearsWithCurrManager
+01] App
+02] Category
+03] Rating
+04] Reviews
+05] Size
+06] Installs
+07] Type
+08] Price
+09] Content Rating
+10] Genres
+11] Last Updated
+12] Current Ver
+13] Android Ver
 ```
 
 Dataset Link:
-https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
