@@ -1,9 +1,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<div align= "center">
-    <h2> Google-Play-Store-Analysis </h2><br>
+<div align="center">
+    <h2 style="font-size: 24px;">Google-Play-Store-Analysis</h2><br>
 </div>
-
 
 <div align= "center">
     <img src="https://www.opticflux.com/wp-content/uploads/2021/05/Google-Play-Store.jpg">
