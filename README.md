@@ -78,12 +78,8 @@ https://www.kaggle.com/datasets/lava18/google-play-store-apps
 - NumPy
 - Matplotlib
 - Seaborn
-- HvPlot
 - SciPy
 - Sklearn
-- XGBoost
-- LightGBM
-- CatBoost
 - Warnings
 ```
 
@@ -95,6 +91,7 @@ https://www.kaggle.com/datasets/lava18/google-play-store-apps
 - Python Programming
 - Data Science
 - Data Analysis
+- Data Mining
 - Data Pre-processing
 - Data Visualization
 - Statistical Analysis
