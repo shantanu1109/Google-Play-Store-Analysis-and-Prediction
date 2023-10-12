@@ -6,7 +6,7 @@
 
 
 <div align= "center">
-    <img src="https://play.google.com/intl/en_us/badges/">
+    <img src="https://www.google.com/search?q=google+play&sca_esv=572849866&tbm=isch&sxsrf=AM9HkKml3DPLNXqHNEqT78tXHGYbb2Emyw:1697113496352&source=lnms&sa=X&ved=2ahUKEwjMtt-4wPCBAxVIzzgGHWVNCyQQ_AUoBXoECAEQBw&biw=1536&bih=739&dpr=1.25#imgrc=xpHjY451XBT2kM">
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
