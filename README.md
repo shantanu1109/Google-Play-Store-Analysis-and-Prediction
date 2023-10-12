@@ -6,7 +6,7 @@
 
 
 <div align= "center">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fplay.google%2Fhowplayworks%2F&psig=AOvVaw0q1jzH6yCArLvdX-xQKsgb&ust=1697199899836000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjbhbvA8IEDFQAAAAAdAAAAABAh">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.androidpolice.com%2Fwhat-is-google-play%2F&psig=AOvVaw0q1jzH6yCArLvdX-xQKsgb&ust=1697199899836000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjbhbvA8IEDFQAAAAAdAAAAABAp">
 </div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
