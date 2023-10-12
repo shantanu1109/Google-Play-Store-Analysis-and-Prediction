@@ -103,7 +103,7 @@ https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ### :sparkles: MODEL EVALUATION
 
-#### 2. REGRESSION EVALUATION
+#### 1. REGRESSION EVALUATION
 
 | **ALGORITHMS**           | **RMSE (Training)** | **MAE (Training)** | **R2 (Training)** | **RMSE (Testing)** | **MAE (Testing)** | **R2 (Testing)** |
 | ----------------------- | ------------------- | ------------------ | ---------------- | ------------------ | ----------------- | --------------- |
