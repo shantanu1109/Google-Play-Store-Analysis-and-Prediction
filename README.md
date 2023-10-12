@@ -103,6 +103,15 @@ https://www.kaggle.com/datasets/lava18/google-play-store-apps
 
 ### :sparkles: MODEL EVALUATION
 
+#### 2. REGRESSION EVALUATION
+
+|                           |        TRAINING DATA ACCURACY SCORE        |         TESTING DATA ACCURACY SCORE         |
+|        ALGORITHMS         | ------------------------------------------ | ------------------------------------------- |
+| ------------------------- |     RMSE     |     MAE     |      R2       |      RMSE     |     MAE     |      R2       |
+| Logistic Regression       |     0.406    |     0.314   |     0.055     |      0.403    |     0.310   |     0.062     |  
+| K Nearest Neighbour       |     0.343    |     0.262   |     0.328     |      0.422    |     0.321   |    -0.026     |
+| Random Forest             |     0.405    |     0.314   |     0.063     |      0.402    |     0.310   |     0.068     |   
+
 #### 2. CLASSIFICATION EVALUATION
 
 |         ALGORITHMS        | TRAINING  DATA ACCURACY SCORE | TESTING DATA ACCURACY SCORE |
