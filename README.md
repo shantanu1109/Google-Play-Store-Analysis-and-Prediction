@@ -30,19 +30,15 @@ The project stems from the potential to improve employee satisfaction, reduce co
 
 <div align="center"> <img src="https://github.com/shantanu1109/Google-Play-Store-Analysis-and-Prediction/blob/main/IMAGES/File-6-System-Architecture-Diagram.jpeg" alt="System Architecture"> </div>
 
-#### The methodology for IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction is as follows:-
+#### The methodology for Google Play Store Analysis and Prediction is as follows:-
 ```
-- Load the Dataset: The IBM HR Analytics Attrition Dataset is loaded using the pd.read_csv() function. The head() and info() methods are used to display the first few rows and get information about the dataset, respectively.
-- Knowing the Dataset: Basic Information about the dataset is generated; numerical and categorical attributes are enlisted.
-- Data Cleaning: Any missing values in the dataset are dropped using the dropna() method.
-- Data Visualization: Matplotlib and Seaborn libraries are used to visualize the data. 
-- Statistical Analysis: The ANOVA Test is performed to analyze the Numerical Features' Importance in Employee Attrition, while the Chi-Square Test to Analyze the Categorical Feature Importance in Employee Attrition.
-- Data Preprocessing: The target variable 'Attrition' is mapped to binary values (1 for 'Yes' and 0 for 'No'). Selected features are extracted from the dataset and one-hot encoded using the get_dummies() function.
-- Splitting the Dataset: The dataset is split into training and testing sets using the train_test_split() method from scikit-learn.
-- Implementing Machine Learning Algorithms: Logistic Regression, XGBoost, CatBoost, AdaBoost, LightGBM, Decision Tree, and Random Forest classifiers are initialized and trained using the training data.
-- Model Evaluation: The accuracy score and confusion matrix are computed to evaluate the performance of each algorithm on the testing data.
-- Results: The results, including the accuracy and confusion matrix, are printed for each algorithm.
-- Model Performance Comparison: The hvPlot library is used to visualize the ROC curve diagram comparing the performance of all models used.
+- Knowing the Dataset: The dataset containing Google Play Store Apps information has been imported into a data frame for the purpose of extracting fundamental details about its attributes and producing statistical summaries for the numerical columns.
+- Data Cleaning: We examined the dataset for any missing values, and to address this issue, we implemented three different techniques: removing rows with missing data, imputing missing values with either the mean or median, and employing random sample imputation. We opted for the random sample imputation method to clean the data because it did not affect the distribution pattern.
+- Data Visualization: Matplotlib, Seaborn, and Plotly are employed for data visualization purposes, and we conducted a comprehensive analysis of the Google Play Store dataset to gain insights and understand its descriptive statistics.
+- Statistical Analysis: We performed hypothesis testing to assess the normality of the data. We utilized the Shapiro-Wilk test, K^2 normality test, and Q-Q plots to evaluate the distribution, and it was evident that the variable did not conform to a normal distribution. Consequently, we applied various transformations like logarithm, square root, and Yeo-Johnson techniques, among which the Yeo-Johnson transformation yielded satisfactory results.
+- Outlier Detection: We employed a range of methods to identify outliers within the dataset. These techniques included the Z-Score, the Interquartile Range Method (IQR), and comparing the skewness of data. These approaches were utilized to detect and flag data points that deviated significantly from the norm.
+- Data Preprocessing: The 'Rating' variable of interest was isolated, and we also identified and extracted the specific features from the dataset that we deemed essential. This prepared dataset is now in a state where it can be readily divided for further processing during data splitting.
+- Splitting the Dataset: We divided the dataset into two distinct sets: a training set and a testing set. This partitioning process was achieved by utilizing the 'train_test_split()' method provided by the scikit-learn library.
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
