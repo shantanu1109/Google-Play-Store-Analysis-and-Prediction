@@ -48,7 +48,7 @@ The project stems from the potential to improve employee satisfaction, reduce co
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :file_folder: DATASET
-This is a hypothetical dataset created by IBM data scientists. The dataset has (1470R X 35C) that contains numeric and categorical data types describing each employee’s background and characteristics, and labeled with whether they are still in the company or whether they have gone to work somewhere else. 
+This dataset comprises information from 10,000 Play Store apps, which have been scraped from the web and are accessible on Kaggle. This data presents a valuable opportunity to analyze the Android market, providing valuable insights that can be harnessed by app developers to enhance their chances of success.
 
 #### Dataset Attributes
 ```
