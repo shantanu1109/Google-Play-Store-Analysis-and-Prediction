@@ -28,7 +28,7 @@ The project stems from the potential to improve employee satisfaction, reduce co
 
 ### :triangular_ruler: SYSTEM ARCHITECTURE
 
-<div align="center"> <img src="https://github.com/shantanu1109/IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction/blob/main/IMAGES/File-5-System-Architecture-Diagram.jpeg" alt="System Architecture"> </div>
+<div align="center"> <img src="https://github.com/shantanu1109/Google-Play-Store-Analysis-and-Prediction/blob/main/IMAGES/File-6-System-Architecture-Diagram.jpeg" alt="System Architecture"> </div>
 
 #### The methodology for IBM-HR-Analytics-Employee-Attrition-and-Performance-Prediction is as follows:-
 ```
