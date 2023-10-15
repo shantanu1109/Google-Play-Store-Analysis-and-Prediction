@@ -10,8 +10,10 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### :writing_hand: HR ANALYTICS
-HR analytics is the process of collecting and analyzing Human Resource (HR) data in order to improve an organization’s workforce performance. The process can also be referred to as talent analytics, people analytics, or even workforce analytics. This method of data analysis takes data that is routinely collected by HR and correlates it to HR and organizational objectives. Doing so provides measured evidence of how HR initiatives are contributing to the organization’s goals and strategies.
+### :writing_hand: GOOGLE PLAY STORE
+Google Play Store is a digital distribution platform developed and operated by Google. It serves as the official app store for Android operating systems, offering a wide range of applications, games, movies, music, and other digital content that users can download and install on their Android devices, such as smartphones, tablets, and smart TVs. The platform provides a convenient and secure way for Android users to discover, purchase, and download a diverse array of software and media content. It also includes user reviews, ratings, and recommendations to help users find high-quality apps and content.
+
+Developers can publish their Android applications on the Google Play Store, making them accessible to a global audience of Android users. Users can browse and search for apps and other digital content, and many apps are available for free, while others require a purchase or offer in-app purchases. Google Play Store also provides updates for installed apps, ensuring that users have access to the latest features and security patches.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
