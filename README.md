@@ -17,7 +17,7 @@ HR analytics is the process of collecting and analyzing Human Resource (HR) data
 
 ### :round_pushpin: OBJECTIVE
 
-Employee attrition is the rate at which employees leave a company. The goal of this analysis is to model employee attrition and determine the most dominant contributing factors that govern this turnover. Through this kind of analysis, we can understand how many employees are likely to leave, while also determining which employees are at the highest risk and for what reasons.
+The objective of this project was to perform a comprehensive analysis of the Google Play Store, addressing various problem statements to gain insights into app categories, ratings, content ratings, sentiments, genres, pricing, size, and correlations between different variables. By analyzing these aspects, the project aimed to provide valuable insights for app developers and stakeholders to make informed decisions in the highly competitive app marketplace.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
