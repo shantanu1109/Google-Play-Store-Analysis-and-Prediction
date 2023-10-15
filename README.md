@@ -32,13 +32,16 @@ The project stems from the potential to improve employee satisfaction, reduce co
 
 #### The methodology for Google Play Store Analysis and Prediction is as follows:-
 ```
-- Knowing the Dataset: The dataset containing Google Play Store Apps information has been imported into a data frame for the purpose of extracting fundamental details about its attributes and producing statistical summaries for the numerical columns.
+- Knowing the Dataset: The dataset containing Google Play Store Apps information has been imported into a data frame to extract fundamental details about its attributes and produce statistical summaries for the numerical columns.
 - Data Cleaning: We examined the dataset for any missing values, and to address this issue, we implemented three different techniques: removing rows with missing data, imputing missing values with either the mean or median, and employing random sample imputation. We opted for the random sample imputation method to clean the data because it did not affect the distribution pattern.
 - Data Visualization: Matplotlib, Seaborn, and Plotly are employed for data visualization purposes, and we conducted a comprehensive analysis of the Google Play Store dataset to gain insights and understand its descriptive statistics.
 - Statistical Analysis: We performed hypothesis testing to assess the normality of the data. We utilized the Shapiro-Wilk test, K^2 normality test, and Q-Q plots to evaluate the distribution, and it was evident that the variable did not conform to a normal distribution. Consequently, we applied various transformations like logarithm, square root, and Yeo-Johnson techniques, among which the Yeo-Johnson transformation yielded satisfactory results.
 - Outlier Detection: We employed a range of methods to identify outliers within the dataset. These techniques included the Z-Score, the Interquartile Range Method (IQR), and comparing the skewness of data. These approaches were utilized to detect and flag data points that deviated significantly from the norm.
 - Data Preprocessing: The 'Rating' variable of interest was isolated, and we also identified and extracted the specific features from the dataset that we deemed essential. This prepared dataset is now in a state where it can be readily divided for further processing during data splitting.
 - Splitting the Dataset: We divided the dataset into two distinct sets: a training set and a testing set. This partitioning process was achieved by utilizing the 'train_test_split()' method provided by the scikit-learn library.
+- Implementing Machine Learning Algorithms: - In this data modeling project, we employ a combination of algorithms, including Linear Regression, K-nearest neighbors (KNN), and Random Forest. These algorithms are utilized to handle both classification and regression tasks within the project.
+- Model Evaluation: In the context of regression models, we assess the algorithms' performance by measuring metrics like Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and R-squared (R2). Meanwhile, for classification tasks, we rely on a single metric, which is accuracy.
+
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
