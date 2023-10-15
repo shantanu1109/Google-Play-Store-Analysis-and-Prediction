@@ -126,21 +126,24 @@ In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics A
 
 ### :globe_with_meridians: REFERENCES
 ```
-- 01] Maredia, Rimsha. (2020). Analysis of Google Play Store Data set and predict the popularity of an app on Google Play Store. 
-- 02]  F. Hurley, Android Developers Blog: Android Vitals: Increase engagement and installs through improved app performance, 10-Jul2017. [Online]. Available: https://android-developers.googleblog.com/ 2017/07/android-vitals-increase-engagement-and.html. [Accessed: 12-Feb-2019].
-- 03] M. Nayebi, H. Farahi, and G. Ruhe, Which Version Should Be Released to App Store?, in 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Toronto, ON, 2017, pp. 324333.
-- 04] S. Rabiyathul Basariya, Ramyar Rzgar Ahmed, A STUDY ON ATTRITION - TURNOVER INTENTIONS OF EMPLOYEES, International Journal of Civil Engineering and Technology (IJCIET), 2019, 10(1), PP2594-2601
-- 05] Halkos, George & Bousinakis, Dimitrios, 2017. "The effect of stress and dissatisfaction on employees during crisis," Economic Analysis and Policy, Elsevier, vol. 55(C), pages 25-34.
-- 06] Glavas, A., & Willness, C. (2020). Employee (dis)engagement in corporate social responsibility. In D. Haski-Leventhal, L. Roza, & S. Brammer (Eds.), Employee engagement in corporate social responsibility (pp. 10–27). Sage Publications Ltd. https://doi.org/10.4135/9781529739176.n2
-- 07] S. Yadav, A. Jain and D. Singh, "Early Prediction of Employee Attrition using Data Mining Techniques," 2018 IEEE 8th International Advance Computing Conference (IACC), Greater Noida, India, 2018, pp. 349-354, doi: 10.1109/IADCC.2018.8692137.
-- 08] R. Jain and A. Nayyar, "Predicting Employee Attrition using XGBoost Machine Learning Approach," 2018 International Conference on System Modeling & Advancement in Research Trends (SMART), Moradabad, India, 2018, pp. 113-120, doi: 10.1109/SYSMART.2018.8746940.
-- 09] Alduayj, Sarah & Rajpoot, Kashif. (2018). Predicting Employee Attrition using Machine Learning. 93-98. 10.1109/INNOVATIONS.2018.8605976. 
-- 10] Setiawan, Irwan & Suprihanto, Suprihanto & Nugraha, Ade & Hutahaean, Jonner. (2020). HR analytics: Employee attrition analysis using logistic regression. IOP Conference Series: Materials Science and Engineering. 830. 032001. 10.1088/1757-899X/830/3/032001. 
-- 11] Yadav, Sandeep & Jain, Aman & Singh, Deepti. (2018). Early Prediction of Employee Attrition using Data Mining Techniques. 349-354. 10.1109/IADCC.2018.8692137.
-- 12] I. Ballal, S. Kavathekar, S. Janwe, P. Shete, and N. Bhirud, “People Leaving the Job-An Approach for Prediction Using Machine Learning,” Int. J. Res. Anal. Rev., vol. 7, no. 1, pp. 8–10, 2020, [Online]. Available: www.ijrar.org
-- 13] A. Qutub, A. Al-Mehmadi, M. Al-Hssan, R. Aljohani, and H.S. Alghamdi, “Prediction of Employee Attrition Using Machine Learning and Ensemble Methods,” Int. J. Mach. Learn. Comput., vol. 11, no. 2, pp. 110–114, 2021, doi:10.18178/ijmlc.2021.11.2.1022.
-- 14] N. Mansor, N. S. Sani, and M. Aliff, “Machine Learning for Predicting Employee Attrition,” Int. J. Adv. Comput. Sci. Appl., vol. 12, no. 11, pp. 435–445, 2021, doi: 10.14569/IJACSA.2021.0121149.
-- 15] D. Saisanthiya, V. M. Gayathri, and P. Supraja, “Employee Attrition Prediction Using Machine Learning and Sentiment Analysis,” Int. J. Adv. Trends Comput. Sci. Eng., vol. 9, no. 5, pp. 7550–7557, 2020, doi: 10.30534/ijatcse/2020/91952020.
+- 01] Statista, Number of available applications in the Google Play store from December 2009 to March 2019, https://www.statista.com/ statistics/266210/numberof-available-applications-in-the-google-play-store/,
+Online: accessed 22 May 2019.
+- 02] Statista, Number of mobile app downloads worldwide in 2017, 2018 and 2020 (in billions), https://www.statista.com/statistics/271644/worldwide-free-and-paid-mobile-app-storedownloads/, Online: accessed 22 May 2019.
+- 03] R. M. Amir Latif, M. Talha Abdullah, S. U. Aslam Shah, M. Farhan, F. Ijaz, and A. Karim, "Data Scraping from Google Play Store and Visualization of its Content for Analytics," 2019 2nd International
+Conference on Computing, Mathematics and Engineering Technologies(iCoMET), Sukkur, Pakistan, 2019, pp. 1-8.
+- 04] Rimsha Maredia, “Analysis of Google Play Store Data set and predict the popularity of an app on Google Play Store”, Texas A&M University College Station, Texas, June 2020.
+- 05] T. Chumwatana, Using sentiment analysis technique for analyzing Thai customer satisfaction from social media, 2015.
+- 06] Maredia, Rimsha. (2020). Analysis of Google Play Store Data set and predict the popularity of an app on Google Play Store. 
+- 07] H. Hanyang et al., Studying the consistency of star ratings and reviews of popular free hybrid android and ios apps, Empirical Softw. Eng. 24 (2019), no. 7, 7–32.
+- 08] Aralikatte, R., Sridhara, G., Gantayat, N., and Mani, S. (2018). Fault in your stars: an analysis of android app reviews. In Proceedings of the ACM India Joint International Conference on Data Science and Management of Data, pp. 57–66. ACM. 
+- 09]  F. Hurley, Android Developers Blog: Android Vitals: Increase engagement and installs through improved app performance, 10-Jul-2017. [Online]. Available: https://android-developers.googleblog.com/ 2017/07/android-vitals-increase-engagement-and.html. [Accessed: 12-Feb-2019].
+- 10] M. Nayebi, H. Farahi, and G. Ruhe, Which Version Should Be Released to App Store?, in 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Toronto, ON, 2017, pp. 324333.
+- 11] Chin-Lung Hsu and Judy Chuan-Chuan Lin. 2015. What drives purchase intention for paid mobile apps? - An expectation confirmation model with perceived value. Electron. Commer. Rec. Appl. 14, 1 (January 2015), 46–57.  
+- 12] Akhlak Ali Sunasara, Nancy Jaiswal, Suchit Poojari, Anil Kumar Chaturvedi, (2021) "Play Store App Analysis", International Research Journal of Engineering and Technology (IRJET), pp. 3888-3893.
+- 13] Cuiyun Gao, Jichuan Zeng, Michael R. Lyu, and Irwin King, “Online App Review Analysis for Identifying Emerging Issues”, ACM/IEEE 40th International Conference on Software Engineering, Shenzhen Research
+Institute of The Chinese University of Hong Kong, China 2018.
+- 14] Liu Yezheng, Du Fei, Jiang Yuanchun, Liu Xiao, Wang Qiudan, “A Novel APPs Recommendation Algorithm Based on APPs Popularity and User Behaviors”, IEEE First International Conference on Data Science in Cyberspace, China, Australia-2016.
+- 15] M. Harman, A. Al-Subaihin, Y. Jia,W. Martin, F. Sarro, Y. Zhang, “Mobile App and App Store Analysis, Testing, and Optimisation”, IEEE/ACM International Conference on Mobile Software Engineering and Systems,University College London, CREST Centre UCLappA Group, London, WC1E 6BT, UK-2016.
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
