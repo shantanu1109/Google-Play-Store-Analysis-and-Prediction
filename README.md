@@ -122,7 +122,10 @@ https://www.kaggle.com/datasets/lava18/google-play-store-apps
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :key: CONCLUSION
-In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics Attrition Dataset, from data loading to model evaluation. By implementing and evaluating various machine learning algorithms, we gained insights into which models are effective for predicting employee attrition. The results and visualizations generated throughout the process provide valuable information for decision-makers and HR professionals seeking to understand and mitigate employee attrition within the organization. This project showcases the power of data analysis and machine learning in addressing real-world business challenges.
+To summarize, we conducted an exploration and analysis of the dataset sourced from Google Play Store apps, employing various data visualization techniques facilitated by libraries like Matplotlib and Seaborn.
+Our initial examination, utilization of visualization tools, and exploratory data analysis (EDA) provided valuable insights into the dataset, enhancing our comprehension of inherent patterns and associations among the different variables.
+Our scrutiny of the Google Play Store dataset revealed a limited correlation between app ratings and other attributes like app size, number of installations, user reviews, and pricing. Notably, we identified a moderately positive correlation between the number of installations and app ratings, indicating that apps with higher ratings tend to accumulate more installations.
+Furthermore, our observations indicated that free apps tend to receive higher ratings compared to their paid counterparts, and the size of the app does not appear to significantly influence the app's rating.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -145,7 +148,7 @@ Conference on Computing, Mathematics and Engineering Technologies(iCoMET), Sukku
 - 13] Cuiyun Gao, Jichuan Zeng, Michael R. Lyu, and Irwin King, “Online App Review Analysis for Identifying Emerging Issues”, ACM/IEEE 40th International Conference on Software Engineering, Shenzhen Research
 Institute of The Chinese University of Hong Kong, China 2018.
 - 14] Liu Yezheng, Du Fei, Jiang Yuanchun, Liu Xiao, Wang Qiudan, “A Novel APPs Recommendation Algorithm Based on APPs Popularity and User Behaviors”, IEEE First International Conference on Data Science in Cyberspace, China, Australia-2016.
-- 15] M. Harman, A. Al-Subaihin, Y. Jia,W. Martin, F. Sarro, Y. Zhang, “Mobile App and App Store Analysis, Testing, and Optimisation”, IEEE/ACM International Conference on Mobile Software Engineering and Systems,University College London, CREST Centre UCLappA Group, London, WC1E 6BT, UK-2016.
+- 15] M. Harman, A. Al-Subaihin, Y. Jia,W. Martin, F. Sarro, Y. Zhang, “Mobile App and App Store Analysis, Testing, and Optimisation”, IEEE/ACM International Conference on Mobile Software Engineering and Systems, University College London, CREST Centre UCLappA Group, London, WC1E 6BT, UK-2016.
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
