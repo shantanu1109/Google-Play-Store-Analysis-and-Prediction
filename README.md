@@ -131,11 +131,9 @@ Furthermore, our observations indicated that free apps tend to receive higher ra
 
 ### :globe_with_meridians: REFERENCES
 ```
-- 01] Statista, Number of available applications in the Google Play store from December 2009 to March 2019, https://www.statista.com/ statistics/266210/numberof-available-applications-in-the-google-play-store/,
-Online: accessed 22 May 2019.
+- 01] Statista, Number of available applications in the Google Play store from December 2009 to March 2019, https://www.statista.com/ statistics/266210/numberof-available-applications-in-the-google-play-store/, Online: accessed 22 May 2019.
 - 02] Statista, Number of mobile app downloads worldwide in 2017, 2018 and 2020 (in billions), https://www.statista.com/statistics/271644/worldwide-free-and-paid-mobile-app-storedownloads/, Online: accessed 22 May 2019.
-- 03] R. M. Amir Latif, M. Talha Abdullah, S. U. Aslam Shah, M. Farhan, F. Ijaz, and A. Karim, "Data Scraping from Google Play Store and Visualization of its Content for Analytics," 2019 2nd International
-Conference on Computing, Mathematics and Engineering Technologies(iCoMET), Sukkur, Pakistan, 2019, pp. 1-8.
+- 03] R. M. Amir Latif, M. Talha Abdullah, S. U. Aslam Shah, M. Farhan, F. Ijaz, and A. Karim, "Data Scraping from Google Play Store and Visualization of its Content for Analytics," 2019 2nd International Conference on Computing, Mathematics and Engineering Technologies(iCoMET), Sukkur, Pakistan, 2019, pp. 1-8.
 - 04] Rimsha Maredia, “Analysis of Google Play Store Data set and predict the popularity of an app on Google Play Store”, Texas A&M University College Station, Texas, June 2020.
 - 05] T. Chumwatana, Using sentiment analysis technique for analyzing Thai customer satisfaction from social media, 2015.
 - 06] Maredia, Rimsha. (2020). Analysis of Google Play Store Data set and predict the popularity of an app on Google Play Store. 
@@ -145,8 +143,7 @@ Conference on Computing, Mathematics and Engineering Technologies(iCoMET), Sukku
 - 10] M. Nayebi, H. Farahi, and G. Ruhe, Which Version Should Be Released to App Store?, in 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Toronto, ON, 2017, pp. 324333.
 - 11] Chin-Lung Hsu and Judy Chuan-Chuan Lin. 2015. What drives purchase intention for paid mobile apps? - An expectation confirmation model with perceived value. Electron. Commer. Rec. Appl. 14, 1 (January 2015), 46–57.  
 - 12] Akhlak Ali Sunasara, Nancy Jaiswal, Suchit Poojari, Anil Kumar Chaturvedi, (2021) "Play Store App Analysis", International Research Journal of Engineering and Technology (IRJET), pp. 3888-3893.
-- 13] Cuiyun Gao, Jichuan Zeng, Michael R. Lyu, and Irwin King, “Online App Review Analysis for Identifying Emerging Issues”, ACM/IEEE 40th International Conference on Software Engineering, Shenzhen Research
-Institute of The Chinese University of Hong Kong, China 2018.
+- 13] Cuiyun Gao, Jichuan Zeng, Michael R. Lyu, and Irwin King, “Online App Review Analysis for Identifying Emerging Issues”, ACM/IEEE 40th International Conference on Software Engineering, Shenzhen Research Institute of The Chinese University of Hong Kong, China 2018.
 - 14] Liu Yezheng, Du Fei, Jiang Yuanchun, Liu Xiao, Wang Qiudan, “A Novel APPs Recommendation Algorithm Based on APPs Popularity and User Behaviors”, IEEE First International Conference on Data Science in Cyberspace, China, Australia-2016.
 - 15] M. Harman, A. Al-Subaihin, Y. Jia,W. Martin, F. Sarro, Y. Zhang, “Mobile App and App Store Analysis, Testing, and Optimisation”, IEEE/ACM International Conference on Mobile Software Engineering and Systems, University College London, CREST Centre UCLappA Group, London, WC1E 6BT, UK-2016.
 ```
