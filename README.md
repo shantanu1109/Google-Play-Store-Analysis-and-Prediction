@@ -41,7 +41,6 @@ The project stems from the potential to improve employee satisfaction, reduce co
 - Splitting the Dataset: We divided the dataset into two distinct sets: a training set and a testing set. This partitioning process was achieved by utilizing the 'train_test_split()' method provided by the scikit-learn library.
 - Implementing Machine Learning Algorithms: - In this data modeling project, we employ a combination of algorithms, including Linear Regression, K-nearest neighbors (KNN), and Random Forest. These algorithms are utilized to handle both classification and regression tasks within the project.
 - Model Evaluation: In the context of regression models, we assess the algorithms' performance by measuring metrics like Root Mean Square Error (RMSE), Mean Absolute Error (MAE), and R-squared (R2). Meanwhile, for classification tasks, we rely on a single metric, which is accuracy.
-
 ```
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
