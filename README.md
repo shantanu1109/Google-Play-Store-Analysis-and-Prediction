@@ -126,9 +126,9 @@ In conclusion, we embarked on a comprehensive analysis of the IBM HR Analytics A
 
 ### :globe_with_meridians: REFERENCES
 ```
-- 01] Mishra S N, Lama D R and Pal Y 2016 Human Resource Predictive Analytics (HRPA) for HR Management in Organizations International Journal Of Scientific & Technology Research 5(5) 33-35
-- 02] Hoffman M and Tadelis S 2018 People Management Skills, Employee Attrition, and Manager Rewards: An Empirical Analysis National Bureau of Economic Research
-- 03] Frye A, Boomhower C, Smith M, Vitovsky L and Fabricant S 2018 Employee Attrition: What Makes an Employee Quit? MU Data Science Review 1(1)
+- 01] Maredia, Rimsha. (2020). Analysis of Google Play Store Data set and predict the popularity of an app on Google Play Store. 
+- 02]  F. Hurley, Android Developers Blog: Android Vitals: Increase engagement and installs through improved app performance, 10-Jul2017. [Online]. Available: https://android-developers.googleblog.com/ 2017/07/android-vitals-increase-engagement-and.html. [Accessed: 12-Feb-2019].
+- 03] M. Nayebi, H. Farahi, and G. Ruhe, Which Version Should Be Released to App Store?, in 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Toronto, ON, 2017, pp. 324333.
 - 04] S. Rabiyathul Basariya, Ramyar Rzgar Ahmed, A STUDY ON ATTRITION - TURNOVER INTENTIONS OF EMPLOYEES, International Journal of Civil Engineering and Technology (IJCIET), 2019, 10(1), PP2594-2601
 - 05] Halkos, George & Bousinakis, Dimitrios, 2017. "The effect of stress and dissatisfaction on employees during crisis," Economic Analysis and Policy, Elsevier, vol. 55(C), pages 25-34.
 - 06] Glavas, A., & Willness, C. (2020). Employee (dis)engagement in corporate social responsibility. In D. Haski-Leventhal, L. Roza, & S. Brammer (Eds.), Employee engagement in corporate social responsibility (pp. 10–27). Sage Publications Ltd. https://doi.org/10.4135/9781529739176.n2
