@@ -22,7 +22,7 @@ The objective of this project was to perform a comprehensive analysis of the Goo
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### :innocent: MOTIVATION
-The project stems from the potential to improve employee satisfaction, reduce costs, enhance organizational performance, and create a positive workplace culture. It's an opportunity to use data and analytics to make meaningful changes that benefit both employees and the organization as a whole.
+Although the success rate of apps is on the decline, the annual growth rate of apps continues to increase. Retaining users over an extended period is becoming increasingly challenging for developers who fail to focus on crucial factors. Numerous aspects that developers might overlook during the app's development can lead to its failure. Consequently, we are examining a handful of essential elements and presenting them to developers to assist in their application development efforts.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
